@@ -10,7 +10,7 @@ An Iowa-specific, documentation-first curriculum for adults learning about ordin
 
 ## Development status
 
-Public working project. The curriculum is being assembled on `develop/curriculum` as alpha material. Main is the orientation page until the educational content has been reviewed. No formal release or claim of legal authority. Professional legal review and owner approval remain outstanding.
+Public working project. The curriculum is public alpha material on `main`, with ongoing development on `develop/curriculum`. Public availability is not a beta designation or formal release. No formal release or claim of legal authority. Professional legal review and owner approval remain outstanding.
 
 All classroom cases are fictional. Do not submit simulated documents to a court. Instructors provide general education only, not individualized advice or representation.
 
@@ -21,3 +21,7 @@ All classroom cases are fictional. Do not submit simulated documents to a court.
 - [Iowa court rules](https://www.legis.iowa.gov/law/courtrules/courtruleslistings)
 
 No software installation, account or subscription is needed to read the Markdown materials.
+
+## Open education and participation
+
+Original educational material is available under [CC BY-SA 4.0](LICENSE.md). See [contribution guidelines](CONTRIBUTING.md), [code of conduct](CODE_OF_CONDUCT.md), [review policy](REVIEW.md) and [legal accuracy register](review-register.md). Educators and learners may adapt the curriculum under the license; independently verify any jurisdiction-specific content. Report errors through the repository's issue templates without sharing private case details. The Iowa focus is intentional; adaptations for other jurisdictions require independent legal verification.
